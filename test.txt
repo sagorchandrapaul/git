@@ -1,3 +1,4 @@
 This first line has been changed to this new line in “master” branch
 This is the second line of test.txt
-
+This is the first line of test.txt
+This second line has been changed to this new line in ‘feature 1 testing’ branch
